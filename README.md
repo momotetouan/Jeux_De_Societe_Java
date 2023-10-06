@@ -5,7 +5,6 @@ Ce projet Java vise à créer une application de jeux de société permettant au
 Utilisation
 Fonctionnalités
 
-
 # Utilisation
 Une fois l'application lancée, vous serez invité à choisir entre les jeux Othello et Awalé. Suivez les instructions à l'écran pour jouer au jeu de votre choix.
 
